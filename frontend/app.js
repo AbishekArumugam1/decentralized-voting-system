@@ -2,7 +2,7 @@ import { ethers } from "https://esm.sh/ethers@6.13.1";
 
 
 // CONFIG: Paste your contract address and ABI from Remix here
-const CONTRACT_ADDRESS = "0xd9145CCE52D386f254917e481eB44e9943F39138"; // <-- REPLACE with your deployed contract address
+const CONTRACT_ADDRESS = "0x392892F2BCf0507e3eB3140CF2cC259459019033"; // <-- REPLACE with your deployed contract address
 const ABI =  [
 		{
 			"inputs": [
